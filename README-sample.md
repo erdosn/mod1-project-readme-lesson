@@ -9,5 +9,6 @@
 
 
 # Visualizations (optional)
+![](meme.png)
 
 # Conclusions
