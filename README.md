@@ -12,15 +12,12 @@ YWBAT
 ```
 jupyter nbconvert --to markdown lesson-plan.ipynb
 
+# lose the original markdown file
 
-```
+mv lesson-plan.md README.md
 
-
-```python
-import pandas as pd
-import numpy as np
-
-import matplotlib.pyplot as plt
+# to keep both
+cp lesson-plan.md README.md
 ```
 
 ### Assessment
